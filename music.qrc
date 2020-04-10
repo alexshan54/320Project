@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/music">
+        <file>assets/runtimeexception_music.mp3</file>
+        <file>assets/runtimeexception_music2.mp3</file>
+        <file>assets/jump.mp3</file>
+        <file>assets/death.mp3</file>
+        <file>assets/bug.mp3</file>
+        <file>assets/bug2.mp3</file>
+        <file>assets/powerup.mp3</file>
+    </qresource>
+</RCC>

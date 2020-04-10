@@ -1,0 +1,49 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/bug_1.png</file>
+        <file>assets/bug_2.png</file>
+        <file>assets/check.png</file>
+        <file>assets/controls.png</file>
+        <file>assets/controls_menu.png</file>
+        <file>assets/corrupted_file.png</file>
+        <file>assets/corrupted_file_2.png</file>
+        <file>assets/corrupted_file_3.png</file>
+        <file>assets/corrupted_file_4.png</file>
+        <file>assets/exit.png</file>
+        <file>assets/fileblock.png</file>
+        <file>assets/gameover.png</file>
+        <file>assets/menu.png</file>
+        <file>assets/music.png</file>
+        <file>assets/options.png</file>
+        <file>assets/options_menu.png</file>
+        <file>assets/playercharacter_idle1.png</file>
+        <file>assets/playercharacter_idle2.png</file>
+        <file>assets/playercharacter_jump1.png</file>
+        <file>assets/playercharacter_jump2.png</file>
+        <file>assets/playercharacter_run1.png</file>
+        <file>assets/playercharacter_run10.png</file>
+        <file>assets/playercharacter_run2.png</file>
+        <file>assets/playercharacter_run3.png</file>
+        <file>assets/playercharacter_run4.png</file>
+        <file>assets/playercharacter_run5.png</file>
+        <file>assets/playercharacter_run6.png</file>
+        <file>assets/playercharacter_run7.png</file>
+        <file>assets/playercharacter_run8.png</file>
+        <file>assets/playercharacter_run9.png</file>
+        <file>assets/pointer.png</file>
+        <file>assets/soundfx.png</file>
+        <file>assets/spike.png</file>
+        <file>assets/start.png</file>
+        <file>assets/title.png</file>
+        <file>assets/uncheck.png</file>
+        <file>assets/Retro Gaming.ttf</file>
+        <file>assets/bugspritesheet.png</file>
+        <file>assets/filespritesheet.png</file>
+        <file>assets/idlespritesheet.png</file>
+        <file>assets/jumpspritesheet.png</file>
+        <file>assets/runspritesheet.png</file>
+        <file>assets/background.png</file>
+        <file>assets/battery.png</file>
+        <file>assets/backwardsbugspritesheet.png</file>
+    </qresource>
+</RCC>
